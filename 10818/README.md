@@ -15,7 +15,6 @@
 				</div>
 				<div id="problem_description" class="problem-text">
 				<p>N개의 정수가 주어진다. 이때, 최솟값과 최댓값을 구하는 프로그램을 작성하시오.</p>
-
 				</div>
 				</section>
 			</div>
@@ -26,11 +25,9 @@
 					</div>
 					<div id="problem_input" class="problem-text">
 					<p>첫째 줄에 정수의 개수 N (1 ≤ N ≤ 1,000,000)이 주어진다. 둘째 줄에는 N개의 정수를&nbsp;공백으로 구분해서&nbsp;주어진다. 모든 정수는 -1,000,000보다 크거나 같고, 1,000,000보다 작거나 같은 정수이다.</p>
-
 					</div>
 					</section>
 				</div>
-	
 				<div class="col-md-12">
 					<section id="output" class="problem-section">
 					<div class="headline">
@@ -38,7 +35,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>첫째 줄에 주어진 정수 N개의 최솟값과 최댓값을 공백으로 구분해 출력한다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -84,7 +80,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
