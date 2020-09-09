@@ -1,7 +1,7 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">10171번 - </span><span id="problem_title">고양이</span>
-				<span class="label-success problem-label"></span><span class="label-primary problem-label"></span><span class="label-default problem-label">다국어</span><span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
+				<span class="label-success problem-label"></span><span class="label-primary problem-label"></span><span class="label-default problem-label"></span><span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
 																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
 															</div>
 				</h1>
