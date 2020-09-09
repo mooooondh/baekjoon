@@ -4,7 +4,6 @@
 				<span class="label-success problem-label">성공</span><span class="label-primary problem-label">출처</span><span class="label-default problem-label">다국어</span><span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
 																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
 																																			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" href="#" id="lang-select-button">
-	
 							<span class="lang-select-text">
 								한국어
 							</span>
@@ -33,7 +32,6 @@
 				</div>
 				<div id="problem_description" class="problem-text">
 				<p>아래 예제와 같이 고양이를 출력하시오.</p>
-
 				</div>
 				</section>
 			</div>
@@ -44,11 +42,9 @@
 					</div>
 					<div id="problem_input" class="problem-text">
 					<p>없음.</p>
-
 					</div>
 					</section>
 				</div>
-	
 				<div class="col-md-12">
 					<section id="output" class="problem-section">
 					<div class="headline">
@@ -56,7 +52,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>고양이를 출력한다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -103,7 +98,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
