@@ -133,7 +133,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
