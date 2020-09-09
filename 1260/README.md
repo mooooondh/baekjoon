@@ -1,3 +1,12 @@
+<div class="col-md-12">
+			<div class="page-header">
+				<h1><span class="printable">1260번 - </span><span id="problem_title">DFS와 BFS</span>
+				<span class="label-success problem-label">성공</span><span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
+																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
+																																						</div>
+				</h1>
+			</div>
+		</div>
 <div id="problem-body">
 			<div class="col-md-12">
 				<section id="description" class="problem-section">
@@ -6,7 +15,6 @@
 				</div>
 				<div id="problem_description" class="problem-text">
 				<p>그래프를 DFS로 탐색한 결과와 BFS로 탐색한 결과를 출력하는 프로그램을 작성하시오. 단, 방문할 수 있는 정점이 여러 개인 경우에는 정점 번호가 작은 것을 먼저 방문하고, 더 이상 방문할 수 있는 점이 없는 경우 종료한다.&nbsp;정점 번호는 1번부터 N번까지이다.</p>
-
 				</div>
 				</section>
 			</div>
@@ -27,7 +35,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>첫째 줄에 DFS를 수행한 결과를, 그 다음 줄에는 BFS를 수행한 결과를 출력한다. V부터 방문된 점을 순서대로 출력하면 된다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -138,7 +145,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
