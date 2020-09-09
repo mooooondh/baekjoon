@@ -1,7 +1,7 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">17450번 - </span><span id="problem_title">과자 사기</span>
-				<span class="label-success problem-label">성공</span><span class="label-primary problem-label">출처</span><span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
+				<span class="label-success problem-label"></span><span class="label-primary problem-label"></span><span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
 																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
 																																						</div>
 				</h1>
