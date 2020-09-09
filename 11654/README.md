@@ -15,7 +15,6 @@
 				</div>
 				<div id="problem_description" class="problem-text">
 				<p>알파벳 소문자, 대문자, 숫자 0-9중 하나가 주어졌을 때, 주어진 글자의 아스키 코드값을 출력하는 프로그램을 작성하시오.</p>
-
 				</div>
 				</section>
 			</div>
@@ -26,11 +25,9 @@
 					</div>
 					<div id="problem_input" class="problem-text">
 					<p>알파벳 소문자, 대문자, 숫자 0-9 중 하나가 첫째 줄에 주어진다.</p>
-
 					</div>
 					</section>
 				</div>
-	
 				<div class="col-md-12">
 					<section id="output" class="problem-section">
 					<div class="headline">
@@ -38,7 +35,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>입력으로 주어진 글자의 아스키 코드 값을 출력한다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -213,7 +209,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
