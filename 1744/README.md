@@ -1,8 +1,8 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">1744번 - </span><span id="problem_title">수 묶기</span>
-				<span class="label-success problem-label"></span><span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
-																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
+								<div class="btn-group pull-right problem-button">
+					<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
 																																						</div>
 				</h1>
 			</div>
