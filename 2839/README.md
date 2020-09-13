@@ -1,7 +1,7 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">2839번 - </span><span id="problem_title">설탕 배달</span>
-				<span class="label-success problem-label"></span><span class="label-primary problem-label"></span><span class="label-default problem-label">다국어</span><span class="label-purple problem-label"></span>				
+				<span class="label-success problem-label"></span><span class="label-primary problem-label"></span><span class="label-default problem-label"></span><span class="label-purple problem-label"></span>				
 		</div>
 <div id="problem-body">
 			<div class="col-md-12">
