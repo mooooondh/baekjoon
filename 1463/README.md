@@ -1,7 +1,7 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">1463번 - </span><span id="problem_title">1로 만들기</span>
-				<span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
+				<span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
 														</div>
 				</h1>
 			</div>
@@ -14,15 +14,12 @@
 				</div>
 				<div id="problem_description" class="problem-text">
 				<p>정수 X에 사용할 수 있는 연산은 다음과 같이 세 가지 이다.</p>
-
 <ol>
 	<li>X가 3으로 나누어 떨어지면, 3으로 나눈다.</li>
 	<li>X가 2로 나누어 떨어지면, 2로 나눈다.</li>
 	<li>1을 뺀다.</li>
 </ol>
-
 <p>정수 N이 주어졌을 때,&nbsp;위와 같은 연산 세 개를 적절히 사용해서&nbsp;1을 만들려고 한다. 연산을 사용하는 횟수의 최솟값을 출력하시오.</p>
-
 				</div>
 				</section>
 			</div>
@@ -33,11 +30,9 @@
 					</div>
 					<div id="problem_input" class="problem-text">
 					<p>첫째 줄에 1보다 크거나 같고, 10<sup>6</sup>보다 작거나 같은 정수 N이 주어진다.</p>
-
 					</div>
 					</section>
 				</div>
-	
 				<div class="col-md-12">
 					<section id="output" class="problem-section">
 					<div class="headline">
@@ -45,7 +40,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>첫째 줄에 연산을 하는 횟수의 최솟값을 출력한다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -117,7 +111,6 @@
 				</div>
 				<div id="problem_hint" class="problem-text">
 				<p>10의 경우에 10 -&gt; 9 -&gt; 3 -&gt; 1 로 3번 만에 만들 수 있다.</p>
-
 				</div>
 				</section>
 			</div>
