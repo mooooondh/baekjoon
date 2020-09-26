@@ -44,19 +44,21 @@ def stable_check():
 
 def cluster_fall():
     global cave
-    for i in range(c- 1, -1, -1):
-        for j in range(r):
-            if (i + 1 < c and cave[i][j]== "o" and cave[i + 1][j] == "x"):
+    for i in range(r- 1, -1, -1):
+        for j in range(c):
+            if(i+ 1< r and cave[i][j]== "o" and cave[i+1][j]== "x"):
                 is_stable(j, i)
                 return
-            if(i+ 1< c and cave[i][j]== "o" and cave[i+1][j]== "."):
-                cave[i+ 1][j]= "o"
-                cave[i][j]= "."
+    for i in range(r- 1, -1, -1):
+        for j in range(c):
+            if(i+ 1< r and cave[i][j]== "o" and cave[i+1][j]== "."):
+                cave[i + 1][j] = "o"
+                cave[i][j] = "."
 
 def fall_check():
     global cave
-    for i in range(c):
-        for j in range(r):
+    for i in range(r):
+        for j in range(c):
             if(cave[i][j]== "o"):
                 return False
     return True
@@ -64,38 +66,33 @@ def fall_check():
 for i in height:
     stick_loc= r- i
     if(direction== 0):
+        direction = 1
         for j in range(len(cave[stick_loc])):
             if(cave[stick_loc][j]== "x"):
                 cave[stick_loc][j]= "."
-                direction= 1
                 dfs(j- 1, stick_loc)
                 dfs(j+ 1, stick_loc)
                 dfs(j, stick_loc- 1)
+                dfs(j, stick_loc+ 1)
                 stable_check()
                 while(fall_check()== False):
                     cluster_fall()
                     stable_check()
-                # for i in cave:
-                #     print("".join(i))
-                # print("========================")
                 break
     else:
+        direction = 0
         for j in range(len(cave[stick_loc])- 1, -1, -1):
             if(cave[stick_loc][j]== "x"):
                 cave[stick_loc][j]= "."
-                direction = 0
                 dfs(j - 1, stick_loc)
                 dfs(j + 1, stick_loc)
                 dfs(j, stick_loc - 1)
+                dfs(j, stick_loc + 1)
                 stable_check()
                 while (fall_check() == False):
                     cluster_fall()
                     stable_check()
-                # for i in cave:
-                #     print("".join(i))
-                # print("========================")
                 break
 
 for i in cave:
     print("".join(i))
-
