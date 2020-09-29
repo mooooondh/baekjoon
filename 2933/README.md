@@ -1,6 +1,6 @@
 <div class="col-md-12">
 			<div class="page-header">
-				<h1><span class="printable">2933번 - </span><span id="problem_title">미네랄</span>
+				<h1><span class="printable">2933번 - </span><span id="problem_title">미네랄</span><p>미해결</>
 				<span class="label-danger problem-label"></span><span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
 																										<button class="btn btn-default" type="button" id="favorite_button" data-favorite="0"><span class="glyphicon glyphicon-star-empty" id="favorite_image"></span></button>
 																																						</div>
