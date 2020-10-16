@@ -1,5 +1,8 @@
+문자열 압축
+==========================
+https://programmers.co.kr/learn/courses/30/lessons/60057
+
 <li class="nav-item algorithm-nav-link algorithm-title">
-    문자열 압축
   </li>
 <div class="guide-section-description">
       <h6 class="guide-section-title">문제 설명</h6>
