@@ -1,7 +1,7 @@
 <div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">2003번 - </span><span id="problem_title">수들의 합 2</span>
-				<span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
+				<span class="label-purple problem-label"></span>				<div class="btn-group pull-right problem-button">
 														</div>
 				</h1>
 							</div>
