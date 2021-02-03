@@ -1,19 +1,9 @@
-<div class="row">
-		<div class="col-md-12">
-			<div id="result_log"></div>
-		</div>
-		<div class="col-md-12">
-							<ul class="nav nav-pills no-print problem-menu"><li class="active">
-	<a href="/problem/10844">10844번</a>
-</li><li><a href="/submit/10844">제출</a></li><li><a href="/problem/status/10844">맞은 사람</a></li><li><a href="/short/status/10844">숏코딩</a></li><li><a href="/problem/history/10844">재채점</a></li><li><a href="/status?from_problem=1&amp;problem_id=10844">채점 현황</a></li><li class="dropdown"><a class="dropdown-toggle" id="drop5" role="button" data-toggle="dropdown" href="#">강의<b class="caret"></b></a><ul id="menu2" class="dropdown-menu" role="menu" aria-labelledby="drop5"><li><a tabindex="-1" href="https://code.plus/course/32">SW 역량 테스트 준비 - 기초</a></li><li><a tabindex="-1" href="https://code.plus/course/41">알고리즘 기초 1/2</a></li><li class="divider"></li><li><a tabindex="-1" href="#" class="lecture-request">강의 요청하기</a></li></ul></li></ul>
-					</div>
-		<div class="col-md-12">
+<div class="col-md-12">
 			<div class="page-header">
 				<h1><span class="printable">10844번 - </span><span id="problem_title">쉬운 계단 수</span>
-				<span class="label-purple problem-label">분류</span>				<div class="btn-group pull-right problem-button">
+								<div class="btn-group pull-right problem-button">
 														</div>
 				</h1>
-									
 							</div>
 		</div>
 		<div class="col-md-12">
@@ -56,7 +46,6 @@
 <p>세준이는 수의 길이가 N인 계단 수가 몇 개 있는지 궁금해졌다.</p>
 
 <p>N이 주어질 때, 길이가 N인 계단 수가 총 몇 개 있는지 구하는 프로그램을 작성하시오. (0으로 시작하는 수는 없다.)</p>
-
 				</div>
 				</section>
 			</div>
@@ -67,11 +56,9 @@
 					</div>
 					<div id="problem_input" class="problem-text">
 					<p>첫째 줄에 N이 주어진다. N은 1보다 크거나 같고, 100보다 작거나 같은 자연수이다.</p>
-
 					</div>
 					</section>
 				</div>
-	
 				<div class="col-md-12">
 					<section id="output" class="problem-section">
 					<div class="headline">
@@ -79,7 +66,6 @@
 					</div>
 					<div id="problem_output" class="problem-text">
 					<p>첫째 줄에 정답을 1,000,000,000으로 나눈 나머지를 출력한다.</p>
-
 					</div>
 					</section>
 				</div>
@@ -150,7 +136,6 @@
 				<h2>힌트</h2>
 				</div>
 				<div id="problem_hint" class="problem-text">
-				
 				</div>
 				</section>
 			</div>
